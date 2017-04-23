@@ -1,0 +1,647 @@
+631 tweets realted to alcohol labeled and classified:  
+### = Errors by classifers
+
+                        Labels |               SVM predictions |            Predictions of NBC
+
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |      Concerned about drinking  ###
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |      Concerned about drinking  ###
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |      Concerned about drinking  ###
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |      Concerned about drinking  ###
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |      Concerned about drinking  ###
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |      Concerned about drinking  ###
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |      Concerned about drinking  ###
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |      Concerned about drinking  ###     
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |      Concerned about drinking  ###
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+             Actively drinking |             Actively drinking |             Actively drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      Concerned about drinking |      Concerned about drinking |      Concerned about drinking
+      
+Labels: Actively Drinking: 146 Concerned about drinking: 485  
+ 
+Naive Bayes Classifier:   (622/631 correct)
+	Actively drinking: Precision: 1.0000 Recall: 0.9384 F1 score: 0.9682
+	Concerned about drinking: Precision: 0.9818 Recall: 1.0000 F1 score: 0.9908
+	Accuracy: 0.9857
+SVM:        (All correct)
+	Actively drinking: Precision: 1.0000 Recall: 1.0000 F1 score: 1.0000
+	Concerned about drinking: Precision: 1.0000 Recall: 1.0000 F1 score: 1.0000
+	Accuracy: 1.0000
